@@ -1,0 +1,19 @@
+{
+  "configuration_variables": {
+    "centroids": {
+      "start_threshold": 20,
+      "end_threshold": 80,
+      "quantity": 3
+    },
+    "colors": [
+      "r",
+      "g",
+      "b",
+      "c",
+      "m",
+      "k"
+    ],
+    "iterations": 2,
+    "dataset_file": "dataset_light.csv"
+  }
+}
